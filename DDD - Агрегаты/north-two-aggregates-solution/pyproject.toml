@@ -1,0 +1,9 @@
+[project]
+name = "north-two-aggregates-solution"
+version = "1.0.0"
+description = "Два агрегата магазина «Север»: заказ и складская позиция"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.uv]
+package = false
